@@ -1,2 +1,2 @@
-# KST_TEST
-Code Assessment from PT KST, I use Java btww 
+# Code Assessment from PT KST
+Riyandi Novian
